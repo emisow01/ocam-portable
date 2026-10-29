@@ -1,0 +1,6 @@
+# Runtime configuration and user state
+oCam/
+Config.ini
+*.ini.bak
+*.log
+*.tmp
